@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0da3b08-6c4a-4c6b-913c-1a28c5fa8794" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_view.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftflbook/connection.php" afterPath="$PROJECT_DIR$/ftflbook/connection.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftflbook/ftfl_add.php" afterPath="$PROJECT_DIR$/ftflbook/ftfl_add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftflbook/ftfl_delete.php" afterPath="$PROJECT_DIR$/ftflbook/ftfl_delete.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftflbook/ftfl_list.php" afterPath="$PROJECT_DIR$/ftflbook/ftfl_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftflbook/ftfl_update.php" afterPath="$PROJECT_DIR$/ftflbook/ftfl_update.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftflbook/ftfl_view.php" afterPath="$PROJECT_DIR$/ftflbook/ftfl_view.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ftflbook.iml" afterPath="$PROJECT_DIR$/.idea/ftflbook.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftflbook/ftflbook.sql" afterPath="$PROJECT_DIR$/ftflbook/ftflbook.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftflbook/index.html" afterPath="$PROJECT_DIR$/ftflbook/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/index.html" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_update.php" afterPath="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_update.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ftflbook.iws" />
@@ -52,29 +29,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="multi_update.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="multi_update.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_update.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="16.875" vertical-offset="765" max-vertical-offset="1485">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.46272492" vertical-offset="90" max-vertical-offset="1560">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
-                <marker date="1420127162416" expanded="true" signature="71:133" placeholder="SELECT * FRO..." />
-                <marker date="1420127162416" expanded="true" signature="2131:4483" placeholder="..." />
-                <marker date="1420127162416" expanded="true" signature="2206:4472" placeholder="..." />
-                <marker date="1420127162416" expanded="true" signature="2280:4457" placeholder="..." />
-                <marker date="1420127162416" expanded="true" signature="4493:4551" placeholder="..." />
-                <marker date="1420127162416" expanded="true" signature="4561:4620" placeholder="..." />
-                <marker date="1420127162416" expanded="true" signature="4630:4713" placeholder="..." />
+                <marker date="1420129799968" expanded="true" signature="71:133" placeholder="SELECT * FRO..." />
+                <marker date="1420129799968" expanded="true" signature="2426:5088" placeholder="..." />
+                <marker date="1420129799968" expanded="true" signature="2501:5077" placeholder="..." />
+                <marker date="1420129799968" expanded="true" signature="2575:5062" placeholder="..." />
+                <marker date="1420129799968" expanded="true" signature="5098:5156" placeholder="..." />
+                <marker date="1420129799968" expanded="true" signature="5166:5225" placeholder="..." />
+                <marker date="1420129799968" expanded="true" signature="5235:5318" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multi_list.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="multi_list.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53984576" vertical-offset="315" max-vertical-offset="1455">
-              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1455">
+              <caret line="10" column="9" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
               <folding>
                 <marker date="1420127595088" expanded="true" signature="1187:1302" placeholder="UPDATE dripm..." />
                 <marker date="1420127595088" expanded="true" signature="1381:1404" placeholder="SELECT * FRO..dropmulti..." />
@@ -86,8 +63,8 @@
       <file leaf-file-name="multi_add.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.5" vertical-offset="360" max-vertical-offset="1395">
-              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+            <state vertical-scroll-proportion="13.125" vertical-offset="855" max-vertical-offset="1395">
+              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
               <folding>
                 <marker date="1420099846000" expanded="true" signature="1998:2167" placeholder="INSERT INTO ..." />
               </folding>
@@ -110,8 +87,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1350">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1350">
+              <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -146,8 +123,9 @@
         <option value="$PROJECT_DIR$/ftflbook/ftfl_update.php" />
         <option value="$PROJECT_DIR$/ftflbook/index.html" />
         <option value="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_view.php" />
-        <option value="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_update.php" />
         <option value="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_list.php" />
+        <option value="$PROJECT_DIR$/dropdown_n_checkbox_multiple/index.html" />
+        <option value="$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_update.php" />
       </list>
     </option>
   </component>
@@ -513,14 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1350">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="375">
@@ -541,37 +511,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.5" vertical-offset="360" max-vertical-offset="1395">
-          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        <state vertical-scroll-proportion="13.125" vertical-offset="855" max-vertical-offset="1395">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
           <folding>
             <marker date="1420099846000" expanded="true" signature="1998:2167" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_update.php">
+    <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.875" vertical-offset="765" max-vertical-offset="1485">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1455">
+          <caret line="10" column="9" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <marker date="1420127162416" expanded="true" signature="71:133" placeholder="SELECT * FRO..." />
-            <marker date="1420127162416" expanded="true" signature="2131:4483" placeholder="..." />
-            <marker date="1420127162416" expanded="true" signature="2206:4472" placeholder="..." />
-            <marker date="1420127162416" expanded="true" signature="2280:4457" placeholder="..." />
-            <marker date="1420127162416" expanded="true" signature="4493:4551" placeholder="..." />
-            <marker date="1420127162416" expanded="true" signature="4561:4620" placeholder="..." />
-            <marker date="1420127162416" expanded="true" signature="4630:4713" placeholder="..." />
+            <marker date="1420127595088" expanded="true" signature="1187:1302" placeholder="UPDATE dripm..." />
+            <marker date="1420127595088" expanded="true" signature="1381:1404" placeholder="SELECT * FRO..dropmulti..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_list.php">
+    <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53984576" vertical-offset="315" max-vertical-offset="1455">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropdown_n_checkbox_multiple/multi_update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46272492" vertical-offset="90" max-vertical-offset="1560">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
-            <marker date="1420127595088" expanded="true" signature="1187:1302" placeholder="UPDATE dripm..." />
-            <marker date="1420127595088" expanded="true" signature="1381:1404" placeholder="SELECT * FRO..dropmulti..." />
+            <marker date="1420129799968" expanded="true" signature="71:133" placeholder="SELECT * FRO..." />
+            <marker date="1420129799968" expanded="true" signature="2426:5088" placeholder="..." />
+            <marker date="1420129799968" expanded="true" signature="2501:5077" placeholder="..." />
+            <marker date="1420129799968" expanded="true" signature="2575:5062" placeholder="..." />
+            <marker date="1420129799968" expanded="true" signature="5098:5156" placeholder="..." />
+            <marker date="1420129799968" expanded="true" signature="5166:5225" placeholder="..." />
+            <marker date="1420129799968" expanded="true" signature="5235:5318" placeholder="..." />
           </folding>
         </state>
       </provider>
