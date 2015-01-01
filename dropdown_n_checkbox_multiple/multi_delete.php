@@ -4,8 +4,8 @@
     include('connection.php');
 
     $id=$_GET['id'];
-    $query="DELETE FROM `ftflbook`.`userinfo` WHERE `userinfo`.`id` = $id";
+    $query="DELETE FROM `ftflbook`.`dropmulti` WHERE `dropmulti`.`id` = $id";
     mysqli_query($con,$query);
-    header('location: ftfl_list.php');
+    header('location: multi_list.php');
     mysqli_close($con);
 ?>
