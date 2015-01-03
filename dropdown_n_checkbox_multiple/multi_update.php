@@ -12,7 +12,9 @@
 
    /* $hob=substr_count($rows['hobby'],'Reading Book');
     echo $hob;*/
-    //$hob=explode(',',$rows['hobby']);
+    $hob=explode(',',$rows['hobby']);
+    //$food=explode(',',$rows['food']);
+    //$cities=explode(',',$rows['cities']);
     //print_r($hob);
     //exit();
     /*$fav=explode(',',$rows['food']);
@@ -35,11 +37,17 @@
     <br>
     <div>
         <label>Hobby: </label>
+        <!--<div>
+            <input type="checkbox" name="hobby[]" <?php /*if(substr_count($rows['hobby'],'Reading Book')==1) echo 'checked="checked"';  */?> value="Reading Book">Reading Book<br />
+            <input type="checkbox" name="hobby[]" <?php /*if(substr_count($rows['hobby'],'Travelling')==1) echo 'checked="checked"';  */?> value="Travelling">Travelling<br />
+            <input type="checkbox" name="hobby[]" <?php /*if(substr_count($rows['hobby'],'Programming')==1) echo 'checked="checked"';  */?> value="Programming">Programming<br />
+            <input type="checkbox" name="hobby[]" <?php /*if(substr_count($rows['hobby'],'Games')==1) echo 'checked="checked"';  */?> value="Games">Games<br />
+        </div>-->
         <div>
-            <input type="checkbox" name="hobby[]" <?php if(substr_count($rows['hobby'],'Reading Book')==1) echo 'checked="checked"';  ?> value="Reading Book">Reading Book<br />
-            <input type="checkbox" name="hobby[]" <?php if(substr_count($rows['hobby'],'Travelling')==1) echo 'checked="checked"';  ?> value="Travelling">Travelling<br />
-            <input type="checkbox" name="hobby[]" <?php if(substr_count($rows['hobby'],'Programming')==1) echo 'checked="checked"';  ?> value="Programming">Programming<br />
-            <input type="checkbox" name="hobby[]" <?php if(substr_count($rows['hobby'],'Games')==1) echo 'checked="checked"';  ?> value="Games">Games<br />
+            <input type="checkbox" name="hobby[]" <?php if(in_array("Reading Book",$hob)) echo 'checked="checked"';  ?> value="Reading Book">Reading Book<br />
+            <input type="checkbox" name="hobby[]" <?php if(in_array("Travelling",$hob)) echo 'checked="checked"';  ?> value="Travelling">Travelling<br />
+            <input type="checkbox" name="hobby[]" <?php if(in_array("Programming",$hob)) echo 'checked="checked"';  ?> value="Programming">Programming<br />
+            <input type="checkbox" name="hobby[]" <?php if(in_array("Games",$hob)) echo 'checked="checked"';  ?> value="Games">Games<br />
         </div>
     </div>
 
@@ -52,6 +60,12 @@
             <input type="checkbox" name="food_3" <?php if(substr_count($rows['food'],'Food3')==1) echo 'checked="checked"';  ?> value="Food3">Food3<br />
             <input type="checkbox" name="food_4" <?php if(substr_count($rows['food'],'Food4')==1) echo 'checked="checked"';  ?> value="Food4">Food4<br />
         </div>
+       <!-- <div>
+            <input type="checkbox" name="food_1" <?php /*if(in_array("Food1",$food)) echo 'checked="checked"';  */?> value="Food1">Food1<br />
+            <input type="checkbox" name="food_2" <?php /*if(in_array("Food2",$food)) echo 'checked="checked"';  */?> value="Food2">Food2<br />
+            <input type="checkbox" name="food_3" <?php /*if(in_array("Food3",$food)) echo 'checked="checked"';  */?> value="Food3">Food3<br />
+            <input type="checkbox" name="food_4" <?php /*if(in_array("Food4",$food)) echo 'checked="checked"';  */?> value="Food4">Food4<br />
+        </div>-->
     </div>
     <br>
     <div>
@@ -60,6 +74,10 @@
         <div>
             <br>
             <select name="cities[]" multiple="multiple">
+               <!-- <option <?php /*if(in_array('Dhaka',$cities)) echo 'selected="selected"';  */?> value="Dhaka">Dhaka</option>
+                <option <?php /*if(in_array('Chittagong',$cities)) echo 'selected="selected"';  */?> value="Chittagong">Chittagong</option>
+                <option <?php /*if(in_array('Khulna',$cities)) echo 'selected="selected"';  */?> value="Khulna">Khulna</option>
+                <option <?php /*if(in_array('Jshore',$cities)) echo 'selected="selected"';  */?> value="Jshore">Jshore</option>-->
                 <option <?php if(substr_count($rows['cities'],'Dhaka')==1) echo 'selected="selected"';  ?> value="Dhaka">Dhaka</option>
                 <option <?php if(substr_count($rows['cities'],'Chittagong')==1) echo 'selected="selected"';  ?> value="Chittagong">Chittagong</option>
                 <option <?php if(substr_count($rows['cities'],'Khulna')==1) echo 'selected="selected"';  ?> value="Khulna">Khulna</option>
